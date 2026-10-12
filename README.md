@@ -6,6 +6,14 @@
 
 > 研究用途：輸出是計算結果與待複核候選，不是臨床診斷。正式使用前仍需臨床、資料治理與授權審查。
 
+## 作品集說明
+
+本 repository 為共同研究專案 [`OliveWoo/Multimodal-Diagnosis-Model`](https://github.com/OliveWoo/Multimodal-Diagnosis-Model) 的 Fork 版本。
+
+我於大學專題研究期間參與此專案開發，當時使用的 GitHub 帳號為 [`@Joanne-0128`](https://github.com/Joanne-0128)；目前主要使用的作品集帳號為 [`@cloud-sky-0128`](https://github.com/cloud-sky-0128)。
+
+完整的專案歷史、團隊協作與各成員貢獻紀錄，請以原始 repository 與 Git history 為準。
+
 ## 2026-10-01：舊版與新版並列
 
 Repository 現在同時保存兩條可追溯流程：
